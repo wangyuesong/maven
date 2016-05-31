@@ -22,3 +22,4 @@ mvn -DdistributionTargetFolder="$HOME/app/maven/apache-maven-3.4.x-SNAPSHOT" cle
 124124
 Once the build completes, you should have a new Maven distro ready to roll in that directory!
 124214
+asdgsadg
